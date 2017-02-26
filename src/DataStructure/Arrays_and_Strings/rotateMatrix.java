@@ -1,4 +1,4 @@
-package DataStructure;
+package DataStructure.Arrays_and_Strings;
 
 /*
     rotate a square matrix by 90 degrees
