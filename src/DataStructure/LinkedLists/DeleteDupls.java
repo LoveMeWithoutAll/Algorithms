@@ -8,7 +8,7 @@ import java.util.LinkedList;
  * Cracking the Coding Interview v5 Chapter2.1 Quesition
  * remove duplicates from an unsorted linked list
  */
-public class deleteDupls {
+public class DeleteDupls {
 
     public static void print(LinkedList<Integer> list){
         System.out.println("-----------");

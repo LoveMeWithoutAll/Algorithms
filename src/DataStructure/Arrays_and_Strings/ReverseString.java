@@ -5,7 +5,7 @@ package DataStructure.Arrays_and_Strings;
     reverse String
  */
 
-public class reverseString {
+public class ReverseString {
 
     public static void main(String [] args){
         String[] words = {"abcde", "hello", "apple", "kite", "padle"};

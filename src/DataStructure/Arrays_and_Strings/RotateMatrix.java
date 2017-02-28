@@ -5,7 +5,7 @@ package DataStructure.Arrays_and_Strings;
     rotate a square matrix by 90 degrees
  */
 
-public class rotateMatrix {
+public class RotateMatrix {
 
     public static void main(String args[]){
 

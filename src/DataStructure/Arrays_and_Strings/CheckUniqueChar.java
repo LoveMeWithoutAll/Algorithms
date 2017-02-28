@@ -5,7 +5,7 @@ package DataStructure.Arrays_and_Strings;
     when using extended ascii code, check if it is a character set which is a set of unique characters.
  */
 
-public class checkUniqueChar {
+public class CheckUniqueChar {
 
     public static void main (String []args){
         String[] words = {"abcde", "hello", "apple", "kite", "padle"};

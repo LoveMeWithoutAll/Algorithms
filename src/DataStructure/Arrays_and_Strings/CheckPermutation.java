@@ -6,7 +6,7 @@ import java.util.Arrays;
     Cracking the Coding Interview v5 Chapter1.3 Quesition
     Given two strings, write a method to decide if one is a permutation of the other.
  */
-public class checkPermutation {
+public class CheckPermutation {
     public static void main(String []args){
         String[][] pairs = {{"apple", "papel"}, {"carrot", "tarroc"}, {"hello", "llloh"}};
 

@@ -8,7 +8,7 @@ package DataStructure.Arrays_and_Strings;
   a2blc5a3. If the "compressed" string would not become smaller than the original
   string, your method should return the original string.
  */
-public class compressString {
+public class CompressString {
 
 
     public static void main (String args[]){

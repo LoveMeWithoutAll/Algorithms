@@ -3,7 +3,7 @@ package DataStructure.LinkedLists;
 /**
  * Created by ys on 2017-02-27.
  */
-public class linkedListByRecursive {
+public class LinkedListByRecursive {
 
     public static class Node {
         Node next = null;

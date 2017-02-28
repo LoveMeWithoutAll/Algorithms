@@ -7,7 +7,7 @@ package DataStructure.Arrays_and_Strings;
  of another. Given two strings, si and s2, write code to check Ifs2 is a rotation of si
  using only onecalltoisSubstring (e.g., "waterbottLe" is a rotation of "erbottLewat").
  */
-public class rotateString {
+public class RotateString {
 
     public static void main(String [] args){
         String[][] pairs = {{"apple", "pleap"}, {"waterbottle", "erbottlewat"}, {"camera", "macera"}};

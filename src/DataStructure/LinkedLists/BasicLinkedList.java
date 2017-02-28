@@ -3,7 +3,7 @@ package DataStructure.LinkedLists;
 /**
  * Created by ys on 2017-02-27.
  */
-public class basicLinkedList {
+public class BasicLinkedList {
 
     public static class Node {
         Node next = null;
