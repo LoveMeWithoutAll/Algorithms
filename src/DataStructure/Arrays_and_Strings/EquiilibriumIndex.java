@@ -21,14 +21,15 @@ public class EquiilibriumIndex {
         int [] arr = {-1, 3, -4, 5, 1, -6, 2, 1};
 
         System.out.println(searchEqIdUsingRecursive(arr, 0));
+        System.out.println(searchEqId(arr));
     }
 
     private static int searchEqIdUsingRecursive(int [] arr, int mid){
 
             if( mid == arr.length ) return -1;
 
-            int sum1 = 0;
-            int sum2 = 0;
+            long sum1 = 0;
+            long sum2 = 0;
             int size = arr.length;
             int head = mid;
 
@@ -47,5 +48,28 @@ public class EquiilibriumIndex {
             } else {
                 return searchEqIdUsingRecursive(arr, head+1);
             }
+    }
+
+    private static int searchEqId(int [] arr){
+
+        // assertion
+        if( arr.length == 0 ) return -1;
+
+        long totalSum = 0;
+        for( int i = 0; i < arr.length ; i++){
+            totalSum += arr[i];
+        }
+
+        long tempSum = 0;
+        for( int i =0; i < arr.length ; i++){
+            totalSum -= arr[i];
+            if( tempSum == totalSum ) {
+                return i;
+            } else {
+                tempSum += arr[i];
+            }
+        }
+
+        return -1;
     }
 }
