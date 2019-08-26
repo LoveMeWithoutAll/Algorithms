@@ -92,26 +92,27 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 #### Arrays and Strings
 
-* 2D Array 
-* Anagrams 
-* Caesar cipher 
-* Compare the triplets 
-* Counting valleys 
-* Diagonal difference 
-* Dynamic 
-* Electronics shop 
-* Equalize array 
-* Largest sum 
-* Left rotation 
-* Merge interval 
-* Mini max sum 
-* Num of ids 
-* Ransom note 
-* Simple array sum 
-* Single number
-* Singe number2
-* Sock merchant 
-* Convert upper to space 
+* 2D Array
+* Anagrams
+* Caesar cipher
+* Compare the triplets
+* Counting valleys
+* Diagonal difference
+* Dynamic
+* Electronics shop
+* Equalize array
+* Largest sum
+* Left rotation
+* Merge interval
+* Mini max sum
+* Num of ids
+* Ransom note
+* Reverse string in each word
+* Simple array sum
+* Single numbe
+* Singe number
+* Sock merchant
+* Convert upper to space
 
 #### HashTable
 
