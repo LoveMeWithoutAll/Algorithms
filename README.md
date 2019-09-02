@@ -19,6 +19,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Reverse string
 * Rotate matrix
 * Rotate string
+* Second max
 * Tape equilibrium
 * URLify
 * Zero matrix
