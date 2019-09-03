@@ -102,6 +102,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Dynamic
 * Electronics shop
 * Equalize array
+* Find two indexes
 * Largest sum
 * Left rotation
 * Merge interval
