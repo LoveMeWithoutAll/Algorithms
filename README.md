@@ -13,10 +13,9 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Check unique char
 * Compress string
 * Cyclic rotation
-* Equiilibrium index
+* Equilibrium index
 * Find missing element
 * Odd occurence in array
-* Is cipherable
 * Reverse string
 * Rotate matrix
 * Rotate string
@@ -30,10 +29,10 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Distinct
 * Missing integer
 
-#### LinkedLIsts
+#### LinkedLists
 
 * Basic linked list
-* Delete dupls
+* Delete duplications
 * Linked list by recursive
 
 #### Stacks and Queues
@@ -104,6 +103,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Electronics shop
 * Equalize array
 * Find two indexes
+* Is cipherable
 * Largest sum
 * Left rotation
 * Merge interval
