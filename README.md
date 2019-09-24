@@ -16,6 +16,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Equiilibrium index
 * Find missing element
 * Odd occurence in array
+* Is cipherable
 * Reverse string
 * Rotate matrix
 * Rotate string
