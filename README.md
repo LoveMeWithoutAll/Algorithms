@@ -162,6 +162,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Binary search recursive
 * Bubble sort
 * Bubble sort with swap count
+* Find Nth largest element in an array
 * Mark and toys
 
 ## Python
