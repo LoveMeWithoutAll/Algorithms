@@ -133,6 +133,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * Apple and orange
 * Between two sets
+* Find length of common prefix
 * Kangaroo
 * Plus minus
 * Staircase
