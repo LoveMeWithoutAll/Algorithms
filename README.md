@@ -168,6 +168,12 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 ## Python
 
+### Data Structure
+
+#### Linked List
+
+* Merge two sorted linked list
+
 ### Math
 
 * Count char
