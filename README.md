@@ -111,6 +111,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Num of ids
 * Ransom note
 * Reverse string in each word
+* Right rotation
 * Simple array sum
 * Single numbe
 * Singe number
