@@ -110,6 +110,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Mini max sum
 * Num of ids
 * Ransom note
+* Remove Duplicates
 * Reverse string in each word
 * Right rotation
 * Simple array sum
