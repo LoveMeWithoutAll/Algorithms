@@ -97,6 +97,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Anagrams
 * Caesar cipher
 * Compare the triplets
+* Contains duplicates
 * Counting valleys
 * Diagonal difference
 * Dynamic
