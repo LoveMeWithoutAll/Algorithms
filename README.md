@@ -151,6 +151,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * A very big sum
 * Cat and mouse
 * Find the point
+* Fizz Buzz
 * Hurdle race
 * Jumping on clouds
 * Repeated string
