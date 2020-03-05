@@ -159,6 +159,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 ### Recursive
 
 * Brackets
+* Climbing Stairs
 * Combination
 * Factorial
 * Fibonacci
