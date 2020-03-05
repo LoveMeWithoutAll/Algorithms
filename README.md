@@ -98,6 +98,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Caesar cipher
 * Compare the triplets
 * Contains duplicates
+* Convert upper to space
 * Counting valleys
 * Diagonal difference
 * Dynamic
@@ -122,7 +123,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Single numbe
 * Singe number
 * Sock merchant
-* Convert upper to space
+* Valid Palindrome
 
 #### HashTable
 
