@@ -104,6 +104,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Electronics shop
 * Equalize array
 * Find two indexes
+* First Unique Character in a String
 * Is cipherable
 * Largest sum
 * Left rotation
