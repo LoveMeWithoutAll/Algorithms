@@ -113,6 +113,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Num of ids
 * Ransom note
 * Remove Duplicates
+* Reverse Integer
 * Reverse string
 * Reverse string in each word
 * Right rotation
