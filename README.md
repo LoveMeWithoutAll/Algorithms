@@ -109,6 +109,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Left rotation
 * Merge interval
 * Mini max sum
+* Move zeroes
 * Num of ids
 * Ransom note
 * Remove Duplicates
