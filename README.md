@@ -103,6 +103,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Diagonal difference
 * Dynamic
 * Electronics shop
+* Element Equal To Index
 * Equalize array
 * Find two indexes
 * First Unique Character in a String
