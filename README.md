@@ -124,6 +124,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Single numbe
 * Singe number
 * Sock merchant
+* Valid Anagram
 * Valid Palindrome
 
 #### HashTable
