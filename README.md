@@ -105,6 +105,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Electronics shop
 * Element Equal To Index
 * Equalize array
+* Find missing element
 * Find two indexes
 * First Unique Character in a String
 * Is cipherable
