@@ -99,6 +99,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Compare the triplets
 * Contains duplicates
 * Convert upper to space
+* Count and say sequence
 * Counting valleys
 * Diagonal difference
 * Dynamic
