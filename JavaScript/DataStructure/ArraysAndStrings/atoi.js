@@ -50,9 +50,12 @@ function atoi(str) {
         neutral = trimed
     }
 
+    if (hasPlus(trimed)) neutral = trimed.substring(1)
+
     if (!canParse(neutral)) return 0
     const parsed = parse(neutral)
 
+    if (parsed === '') return 0
     let intVal = parseInt(parsed)
     if (minus) intVal = intVal * -1
 
@@ -66,6 +69,11 @@ const isMinus = (input) => {
     return firstChar === '-' ? true : false
 }
 
+const hasPlus = (input) => {
+    const firstChar = input.charAt(0)
+    return firstChar === '+' ? true : false
+}
+
 const canParse = (input) => {
     const numberArr = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     const firstChar = input.charAt(0)
@@ -77,7 +85,7 @@ const parse = (input) => {
     let parsed = ''
     for (let idx = 0; idx < input.length; idx++) {
         const pointer = input.charAt(idx)
-        if (pointer === '0') continue
+        if (parsed === '' && pointer === '0') continue
         if (numberArr.includes(pointer)) {
             parsed += pointer
         } else {
@@ -93,3 +101,6 @@ console.log(atoi("   -42")) // -42
 console.log(atoi("4193 with words")) // 4193
 console.log(atoi("words and 987")) // 0
 console.log(atoi("-91283472332")) // -2147483648
+console.log(atoi("   +42")) // 42
+console.log(atoi("    0000000000000   ")) // 0
+console.log(atoi("010")) // 10
