@@ -95,6 +95,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * 2D Array
 * Anagrams
+* Atoi
 * Binary strings without consecutive
 * Caesar cipher
 * Compare the triplets
