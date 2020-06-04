@@ -116,6 +116,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Is cipherable
 * Largest sum
 * Left rotation
+* Longest common prefix
 * Merge interval
 * Mini max sum
 * Move zeroes
