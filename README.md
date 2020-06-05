@@ -117,6 +117,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Largest sum
 * Left rotation
 * Longest common prefix
+* Max profit
 * Merge interval
 * Mini max sum
 * Move zeroes
