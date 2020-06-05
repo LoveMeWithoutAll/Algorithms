@@ -113,6 +113,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Find missing element
 * Find two indexes
 * First Unique Character in a String
+* Intersection of Two Arrays
 * Is cipherable
 * Largest sum
 * Left rotation
