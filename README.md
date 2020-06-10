@@ -123,6 +123,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Mini max sum
 * Move zeroes
 * Num of ids
+* Plus one
 * Ransom note
 * Remove Duplicates
 * Reverse Integer
