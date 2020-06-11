@@ -131,10 +131,10 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Reverse string in each word
 * Right rotation
 * Simple array sum
-* Single numbe
 * Singe number
 * Sock merchant
 * strStr
+* Sudoku
 * Two sum
 * Valid Anagram
 * Valid Palindrome
