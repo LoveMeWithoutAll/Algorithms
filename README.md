@@ -135,6 +135,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Singe number
 * Sock merchant
 * strStr
+* Two sum
 * Valid Anagram
 * Valid Palindrome
 
