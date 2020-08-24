@@ -185,6 +185,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * Binary search
 * Binary search recursive
+* Binary sort
 * Bubble sort
 * Bubble sort with swap count
 * Find Nth largest element in an array
