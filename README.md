@@ -134,6 +134,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Simple array sum
 * Singe number
 * Sock merchant
+* Sort 0 1 2
 * strStr
 * Sudoku
 * Two sum
