@@ -111,6 +111,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Element Equal To Index
 * Equalize array
 * Find duplicate element
+* Find hidden number
 * Find missing element
 * Find two indexes
 * First Unique Character in a String
