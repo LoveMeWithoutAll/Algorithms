@@ -111,7 +111,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Element Equal To Index
 * Equalize array
 * Find duplicate element
-* Find hidden number
+
 * Find missing element
 * Find two indexes
 * First Unique Character in a String
@@ -167,6 +167,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * A very big sum
 * Cat and mouse
+* Find hidden numbe
 * Find the point
 * Fizz Buzz
 * Hurdle race
