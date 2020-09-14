@@ -111,7 +111,6 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Element Equal To Index
 * Equalize array
 * Find duplicate element
-
 * Find missing element
 * Find two indexes
 * First Unique Character in a String
@@ -136,6 +135,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Singe number
 * Sock merchant
 * Sort 0 1 2
+* Sort two arrays
 * strStr
 * Sudoku
 * Two sum
