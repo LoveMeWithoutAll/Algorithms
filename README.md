@@ -121,6 +121,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Longest common prefix
 * Max profit
 * Merge interval
+* Merge sorted arrays
 * Mini max sum
 * Move zeroes
 * Num of ids
