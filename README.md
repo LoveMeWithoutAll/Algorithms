@@ -132,6 +132,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Reverse string
 * Reverse string in each word
 * Right rotation
+* Rotate matrix
 * Simple array sum
 * Singe number
 * Sock merchant
