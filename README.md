@@ -102,6 +102,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Compare the triplets
 * Contains duplicates
 * Convert upper to space
+* Convert 0 to many
 * Count and say sequence
 * Count and say sequence(Recursive version)
 * Counting valleys
