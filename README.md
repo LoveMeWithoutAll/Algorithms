@@ -121,6 +121,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Left rotation
 * Longest common prefix
 * Max profit
+* Max multiplier
 * Merge interval
 * Merge sorted arrays
 * Mini max sum
