@@ -111,6 +111,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Electronics shop
 * Element Equal To Index
 * Equalize array
+* Find a position where the sum of the left and right is equal
 * Find duplicate element
 * Find missing element
 * Find two indexes
