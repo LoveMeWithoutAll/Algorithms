@@ -113,6 +113,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Equalize array
 * Find a position where the sum of the left and right is equal
 * Find duplicate element
+* Find main element
 * Find missing element
 * Find two indexes
 * First Unique Character in a String
