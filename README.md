@@ -204,6 +204,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Move zeros
 * Position Larger than next each other
 * Radix sort
+* Shuffle array
 
 ## Python
 
