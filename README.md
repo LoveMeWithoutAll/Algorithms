@@ -129,6 +129,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Merge sorted arrays
 * Mini max sum
 * Move zeroes
+* Multiply others
 * Num of ids
 * Plus one
 * Ransom note
