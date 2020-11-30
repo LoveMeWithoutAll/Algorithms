@@ -123,6 +123,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Left rotation
 * Longest common prefix
 * Longest substring length
+* Max gap
 * Max profit
 * Max multiplier
 * Merge interval
