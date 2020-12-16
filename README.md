@@ -170,6 +170,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Between two sets
 * Find length of common prefix
 * Kangaroo
+* Lost clothes
 * Plus minus
 * Staircase
 
