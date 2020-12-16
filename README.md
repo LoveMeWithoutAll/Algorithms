@@ -203,6 +203,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Bubble sort
 * Bubble sort with swap count
 * Find Nth largest element in an array
+* First bad version
 * Mark and toys
 * Merge sorted array
 * Move zeros
