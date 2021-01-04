@@ -121,6 +121,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Is cipherable
 * Largest sum
 * Left rotation
+* Longest bitonic subsequence
 * Longest common prefix
 * Longest substring length
 * Max gap
