@@ -196,6 +196,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Fibonacci
 * Palindrome
 * Permutation
+* Subset sum
 
 ### Sorting and Searching
 
