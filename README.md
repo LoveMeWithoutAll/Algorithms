@@ -227,6 +227,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * Count char
 
-### Search
+### Sort and Search
 
 * Binary search
+* Selection sort
