@@ -229,6 +229,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 ### Recursive
 
+* Euclidean
 * Factorial
 
 ### Sort and Search
