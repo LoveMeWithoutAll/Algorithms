@@ -231,6 +231,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * Euclidean
 * Factorial
+* Recursive Sum
 
 ### Sort and Search
 
