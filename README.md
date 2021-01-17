@@ -232,6 +232,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Count
 * Euclidean
 * Factorial
+* Max
 * Recursive Sum
 
 ### Sort and Search
