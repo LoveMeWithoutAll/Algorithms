@@ -237,6 +237,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 ### Sort and Search
 
+* Breadth-First Search
 * Binary search
 * Selection sort
 * Quick sort
