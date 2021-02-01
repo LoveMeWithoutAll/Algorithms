@@ -126,6 +126,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Longest substring length
 * Max gap
 * Maximum subarray
+* Maximum subarray in circular array
 * Max profit
 * Max multiplier
 * Merge interval
