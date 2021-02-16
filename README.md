@@ -136,6 +136,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Multiply others
 * Num of ids
 * Plus one
+* Racer
 * Ransom note
 * Remove Duplicates
 * Reverse Integer
