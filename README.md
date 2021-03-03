@@ -167,6 +167,10 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Insert node at position
 * Singly linked list
 
+#### Tree
+
+* Maximum Depth Of Binary Tree
+
 ### Implementation
 
 * Apple and orange
