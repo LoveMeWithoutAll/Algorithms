@@ -36,20 +36,39 @@ Reference: https://leetcode.com/explore/interview/card/top-interview-questions-e
  * @return {number}
  */
 var maxDepth = function (root) {
-  const { length } = root
-  let idx = 0
-  while(true) {
-    if (2**idx <= length) {
-      idx++
-    } else {
-      break
+  let nodeArr = [{
+    node: root,
+    depth: 1
+  }]
+  let currentNode = nodeArr.pop()
+  let max = 0
+
+  while (currentNode && currentNode.node)  {
+    const node = currentNode.node
+    const depth = currentNode.depth
+
+    if (depth > max) max = depth
+    
+    if (node.left !== null) {
+      nodeArr = [...nodeArr, {
+        node: node.left,
+        depth: depth + 1
+      }]
     }
+    if (node.right !== null) {
+      nodeArr = [...nodeArr, {
+        node: node.right,
+        depth: depth + 1
+      }]
+    }
+
+    currentNode = nodeArr.pop()
   }
-  return idx
+
+  return max
 };
 
 console.log(maxDepth([3, 9, 20, null, null, 15, 7])) // 3
-console.log(maxDepth([1, null, 2])) // 2
 console.log(maxDepth([1, null, 2])) // 2
 console.log(maxDepth([])) // 0
 console.log(maxDepth([0])) // 1
