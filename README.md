@@ -170,6 +170,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 #### Tree
 
 * Maximum Depth Of Binary Tree
+* Validate binary search tree
 
 ### Implementation
 
