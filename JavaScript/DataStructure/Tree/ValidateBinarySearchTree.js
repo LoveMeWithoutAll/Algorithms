@@ -42,24 +42,17 @@ function TreeNode(val, left, right) {
 
 // solution: https://leetcode.com/problems/validate-binary-search-tree/discuss/32117/My-JavaScript-solution
 var isValidBST = function (root) {
-  if (!root) {
-    return true; // Sanity check for passing test case '[]'
-  }
+  if (root === null) return true
 
   function helper(root, min, max) {
-    if (!root) {
-      return true; // We hit the end of the path
-    }
+    if (root === null) return true
 
-    if ((min !== null && root.val <= min) || (max !== null && root.val >= max)) {
-      return false; // current node's val doesn't satisfy the BST rules
-    }
+    if ((min !== null && root.val <= min) || (max !== null && root.val >= max)) return false
 
-    // Continue to scan left and right
-    return helper(root.left, min, root.val) && helper(root.right, root.val, max);
+    return helper(root.left, min, root.val) && helper(root.right, root.val, max)
   }
 
-  return helper(root, null, null);
+  return helper(root, null, null)
 };
 
 console.log(isValidBST(new TreeNode(2, new TreeNode(1, null, null), new TreeNode(3, null, null)))) // true
