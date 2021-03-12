@@ -82,6 +82,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Insertion sort
 * Is duplicate
 * Max product of three
+* Mock test
 * Quick sort
 * Selection sort
 * Shell sort
