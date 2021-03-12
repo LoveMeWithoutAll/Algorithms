@@ -26,6 +26,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 #### HashTables
 
+* Camouflage
 * Distinct
 * Missing integer
 
