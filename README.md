@@ -151,6 +151,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Sock merchant
 * Sort 0 1 2
 * Sort two arrays
+* Sparse array
 * strStr
 * Sudoku
 * Two sum
