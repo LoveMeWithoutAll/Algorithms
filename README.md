@@ -183,6 +183,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Kangaroo
 * Lost clothes
 * Plus minus
+* Shuffle an array
 * Staircase
 
 ### Math
