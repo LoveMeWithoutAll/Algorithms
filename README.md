@@ -97,6 +97,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * 2D Array
 * Anagrams
+* Array manipulation
 * Atoi
 * Atoi with regex
 * Binary strings without consecutive
