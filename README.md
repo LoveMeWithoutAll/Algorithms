@@ -110,7 +110,6 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Count and say sequence(Recursive version)
 * Counting valleys
 * Diagonal difference
-* Dynamic
 * Electronics shop
 * Element Equal To Index
 * Equalize array
@@ -180,6 +179,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 * Apple and orange
 * Between two sets
+* Dynamic array
 * Find length of common prefix
 * Kangaroo
 * Lost clothes
