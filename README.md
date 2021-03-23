@@ -197,6 +197,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Fizz Buzz
 * Hurdle race
 * Jumping on clouds
+* Power of three
 * Repeated string
 * Strange grid again
 
