@@ -183,6 +183,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Find length of common prefix
 * Kangaroo
 * Lost clothes
+* Min stack
 * Plus minus
 * Shuffle an array
 * Staircase
