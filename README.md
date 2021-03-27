@@ -168,6 +168,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Delete node in a linked list
 * Insert node at head
 * Insert node at position
+* Remove Nth from end
 * Singly linked list
 
 #### Tree
