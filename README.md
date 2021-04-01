@@ -169,6 +169,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Insert node at head
 * Insert node at position
 * Remove Nth from end
+* Reverse linked list
 * Singly linked list
 
 #### Tree
