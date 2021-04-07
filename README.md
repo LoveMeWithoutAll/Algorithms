@@ -164,6 +164,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 
 #### LinkedList
 
+* Add two numbers
 * Delete node
 * Delete node in a linked list
 * Insert node at head
