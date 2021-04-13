@@ -133,6 +133,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Max multiplier
 * Merge interval
 * Merge sorted arrays
+* Merge sorted arrays(no-tricky)
 * Mini max sum
 * Move zeroes
 * Multiply others
