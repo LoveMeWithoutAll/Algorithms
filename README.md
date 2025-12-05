@@ -190,6 +190,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Min stack
 * Plus minus
 * Shuffle an array
+* Sliding window
 * Staircase
 
 ### Math
