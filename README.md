@@ -189,6 +189,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Lost clothes
 * Min stack
 * Plus minus
+* Short sale for max profit
 * Shuffle an array
 * Sliding window
 * Staircase
