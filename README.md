@@ -185,6 +185,7 @@ All algorithms and data structures by [Java](#java), [JavaScript](#javascript), 
 * Between two sets
 * Dynamic array
 * Find length of common prefix
+* Job scheduling
 * Kangaroo
 * Lost clothes
 * Min stack
